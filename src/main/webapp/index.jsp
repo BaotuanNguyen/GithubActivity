@@ -16,7 +16,9 @@
   </head>
   <body>
   <div id="core">
-    <h2>What Have I Been Up To?</h2>
+    <h2>The GitHub Stalkers</h2>
+    <img src="http://vhellendoorn.github.io/IMG/VH.png" class = "img-rounded" height="220">
+    <img src="http://macbeth.cs.ucdavis.edu/smile.jpg" class = "img-rounded" height="220">
     <form action="index.jsp" method="GET">
       <div class="form-group">
         <label for="user"><h3>Github username:</h3></label>
