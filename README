@@ -1,0 +1,3 @@
+ECS189E, HW4 submission by Baotuan Nguyen and Angie Ta.
+
+doswap.sh script has been added to automatically hotswap. The script expects the docker imagename as a parameter. This of course assumes that the dorun.sh has already been run first!
